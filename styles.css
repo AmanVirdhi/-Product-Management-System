@@ -1,0 +1,144 @@
+body{
+    margin: 0%;
+}
+
+#top_heading{
+    margin-top: 1%;
+    margin-bottom: 0;
+    font-size: 20px;
+    margin-left: 1%;
+    font-weight: bold;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#num1{
+    font-size: 15px;
+    margin-left: 42%;
+    font-weight: bold;
+}
+
+.icon1{
+    height: 20px;
+    margin-left: 82%;
+    font-size:larger;
+    
+    /* background-color: black; */
+}
+
+.icon2{
+    height:20px;
+    margin-right: 2%;
+    font-size:larger;
+    border:solid;
+    border-color: blue;
+    border-radius: 20px;
+    border-width: 4 px;
+}
+
+.outer_div{ 
+    background-color:rgb(236, 233, 233);
+    padding: 1%;
+}
+
+.outer_div2{
+    background-color: rgb(196, 198, 196);
+}
+
+.div1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.div_box{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+    background-color: 	rgb(240,240,240);
+}
+
+ 
+
+#total_orders{
+    margin-left: 5%;
+} 
+
+#rakesh{
+    font-weight: bold;
+}
+
+#total_revenue{
+    margin-right: 5%;
+}
+
+#heading{
+    font-size: 20px;
+    margin: 0%;
+    font-weight: bold;
+}
+
+#sub_heading{
+    font-size: 15px;
+    margin: 0%;
+}
+
+#ir{
+    font-weight: bold;
+}
+
+#metal{
+    font-weight: bold;
+}
+
+.div2{
+    padding: 1%;
+    margin: 1%;
+    background-color:	rgb(240,240,240);
+    border-radius: 5px;
+}
+
+.view-all{
+   margin-left: 90%;
+   border-radius: 5px;
+   color: rgb(235, 235, 238);
+   background-color: blue;
+   
+}
+
+.add-product{
+    margin-left: 93%;
+    border-radius: 5px;
+    color: rgb(235, 235, 238);
+    background-color: blue;
+}
+
+.div3{
+    padding: 1%;
+    margin: 1%;
+    background-color: 	rgb(240,240,240);
+    border-radius: 5px;
+}
+
+.div_number {
+    font-size: 45px; /* Choose the desired font size */
+    text-align: center; /* Center the text horizontally */
+    margin-top: 15%; /* Adjust the top margin if needed */
+    margin-bottom: 0%;
+}
+.div_details{
+    margin-top:12%;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: bold;
+}
